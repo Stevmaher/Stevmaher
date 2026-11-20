@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Estevan Maher
 
-<!--
-**Stevmaher/Stevmaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end developer based in Alexandria, Egypt. MIS student, class of 2027. I build clean, responsive web interfaces with React and Supabase.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, JavaScript
+- React
+- Supabase
+- Tailwind CSS
+- Git, GitHub, Vercel
+
+## Featured projects
+
+- **Voyara Travel** - bilingual (Arabic RTL / English) travel agency landing page built with React 19 and Tailwind CSS
+- **Axiom** - Arabic (RTL) puzzle-solver web app in vanilla HTML, CSS and JavaScript
+- **Coco Chocolate** - chocolate brand project with a PostgreSQL/Supabase backend
+
+## Find me
+
+- LinkedIn: [estevan-maher](https://www.linkedin.com/in/estevan-maher-1080a4426)
